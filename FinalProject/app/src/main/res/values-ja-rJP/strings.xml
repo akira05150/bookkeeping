@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="str_bill">ビル</string>
+    <string name="str_statistics">統計</string>
+    <string name="str_assets">資産</string>
+    <string name="str_setting">セットアップ</string>
+
+    <string name="str_income">所得</string>
+    <string name="str_outcome">支出</string>
+    <string name="str_inoutcome">収支</string>
+    <string name="str_total">一時金</string>
+
+    <string name="str_bill_date">日付</string>
+    <string name="str_bill_pick">
+    入力時間</string>
+    <string name="str_bill_asset">資産</string>
+    <string name="str_bill_type">種類</string>
+    <string name="str_bill_cost">金</string>
+    <string name="str_bill_content">
+コンテンツ</string>
+
+    <string name="str_cash">現金</string>
+    <string name="str_account">アカウント</string>
+
+    <string name="str_hinttype">食べ物、衣類、住宅、交通機関を入力してください</string>
+
+
+    <string name="str_add">追加</string>
+    <string name="str_update">更新</string>
+    <string name="str_inorout">収入または費用を選択する</string>
+    <string name="str_inputcost">金額を記入してください</string>
+
+    <string name="str_day">日</string>
+    <string name="str_month">月</string>
+    <string name="str_year">年</string>
+
+    <string name="str_costerr">正しい金額を入力してください</string>
+
+    <string name="str_delete">削除するかどうか</string>
+    <string name="str_yes">はい</string>
+    <string name="str_no">いいえ</string>
+
+    <string name="str_else">残り</string>
+
+    <string name="str_moutcome">月支出</string>
+    <string name="str_youtcome">年支出</string>
+    <string name="str_mincome">月収</string>
+    <string name="str_yincome">年収</string>
+
+    <string name="str_debt">債務</string>
+    <string name="str_totalassets">総資産</string>
+</resources>

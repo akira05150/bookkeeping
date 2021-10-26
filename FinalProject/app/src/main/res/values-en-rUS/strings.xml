@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="str_bill">Bill</string>
+    <string name="str_statistics">Statistics</string>
+    <string name="str_assets">Assets</string>
+    <string name="str_setting">Setting</string>
+
+    <string name="str_income">income</string>
+    <string name="str_outcome">outcome</string>
+    <string name="str_inoutcome">income or outcome</string>
+    <string name="str_total">total</string>
+
+    <string name="str_bill_date">date</string>
+    <string name="str_bill_pick">click to pick time</string>
+    <string name="str_bill_asset">assets</string>
+    <string name="str_bill_type">type</string>
+    <string name="str_bill_cost">cost</string>
+    <string name="str_bill_content">content</string>
+
+    <string name="str_cash">cash</string>
+    <string name="str_account">account</string>
+
+    <string name="str_hinttype">input food, clothes, etc.</string>
+
+    <string name="str_add">add</string>
+    <string name="str_update">update</string>
+    <string name="str_inorout">please choose income or outcome first</string>
+    <string name="str_inputcost">please input your cost</string>
+
+    <string name="str_day">day</string>
+    <string name="str_month">month</string>
+    <string name="str_year">year</string>
+
+    <string name="str_costerr">please input correct cost type</string>
+
+    <string name="str_delete">Do you want to delete this?</string>
+    <string name="str_yes">yes</string>
+    <string name="str_no">no</string>
+
+    <string name="str_else">else</string>
+
+    <string name="str_moutcome">Monthly outcome</string>
+    <string name="str_youtcome">Annual outcome</string>
+    <string name="str_mincome">Monthly income</string>
+    <string name="str_yincome">Annual income</string>
+
+    <string name="str_debt">Debt</string>
+    <string name="str_totalassets">Total assets</string>
+</resources>

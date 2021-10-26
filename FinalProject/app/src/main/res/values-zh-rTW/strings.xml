@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="str_bill">帳單</string>
+    <string name="str_statistics">統計</string>
+    <string name="str_assets">資產</string>
+    <string name="str_setting">設定</string>
+
+    <string name="str_income">收入</string>
+    <string name="str_outcome">支出</string>
+    <string name="str_inoutcome">收支</string>
+    <string name="str_total">總額</string>
+
+    <string name="str_bill_date">日期</string>
+    <string name="str_bill_pick">點擊此以加入時間</string>
+    <string name="str_bill_asset">資產</string>
+    <string name="str_bill_type">類型</string>
+    <string name="str_bill_cost">金額</string>
+    <string name="str_bill_content">內容</string>
+
+    <string name="str_cash">現金</string>
+    <string name="str_account">帳戶</string>
+
+    <string name="str_hinttype">可輸入食衣住行</string>
+
+    <string name="str_add">新增</string>
+    <string name="str_update">更新</string>
+    <string name="str_inorout">請選擇收入或支出</string>
+    <string name="str_inputcost">請填入金額</string>
+
+    <string name="str_day">日</string>
+    <string name="str_month">月</string>
+    <string name="str_year">年</string>
+
+    <string name="str_costerr">請輸入正確的金額</string>
+
+    <string name="str_delete">是否刪除？</string>
+    <string name="str_yes">是</string>
+    <string name="str_no">否</string>
+
+    <string name="str_else">其他</string>
+
+    <string name="str_moutcome">月支出</string>
+    <string name="str_youtcome">年支出</string>
+    <string name="str_mincome">月收入</string>
+    <string name="str_yincome">年收入</string>
+
+    <string name="str_debt">負債</string>
+    <string name="str_totalassets">總資產</string>
+</resources>
